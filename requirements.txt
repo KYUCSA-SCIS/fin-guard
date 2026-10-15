@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+streamlit
